@@ -1,0 +1,18 @@
+#main-div {
+    display: flex;
+    flex-direction: column;
+    aspect-ratio: 1 / 1;
+}
+
+.row-div {
+    display:flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.square-div {
+    display: flex;
+    flex: 1;
+}
+
+
